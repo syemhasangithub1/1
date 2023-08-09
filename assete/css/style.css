@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+
+}
 h1{
     text-align: center;
     text-decoration: underline;
@@ -11,7 +15,24 @@ img{
 
 
 }
+.a{
+    margin-top: 20px;
+    height: 220px;
+    width: 100%;
+    background-color: antiquewhite;
+}
 
+.a .a1{
+    margin-top: 10px;
+    height: 200px;
+    width: 30%;
+    text-align: center;
+    background-color: rgb(32, 210, 151);
+    color: rgb(221, 226, 226);
+    box-shadow: 5px 5px 10px rgb(197, 5, 5);
+    margin-left: 37px;
+    float: left;
+}
 
 
 

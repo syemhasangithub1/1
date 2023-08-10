@@ -15,6 +15,17 @@ img{
 
 
 }
+input:focus{
+    font-size: 26px;
+    color: green;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+
+
+    
+}
 .a{
     margin-top: 20px;
     height: 220px;

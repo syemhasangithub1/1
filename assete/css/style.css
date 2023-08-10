@@ -26,6 +26,33 @@ input:focus{
 
     
 }
+li{
+    margin-bottom: 30px;
+}
+
+li:hover{
+    background-color: black;
+    color: aliceblue;
+    width: 100px;
+
+}
+li::before{
+    content: "❤️";
+}
+li::after{
+    content: "❤️";
+}
+
+
+li:nth-child(1){
+    background-color: aqua;
+    color: rgb(22, 29, 220);
+    width: 100px;
+}
+
+
+
+
 .a{
     margin-top: 20px;
     height: 220px;
